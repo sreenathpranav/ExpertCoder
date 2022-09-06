@@ -1,4 +1,4 @@
-package DivideConquer;
+package _4DivideConquer;
 import java.util.Scanner;
 
 public class _1SquareRoot {

@@ -1,4 +1,4 @@
-package _3Strings;
+package _2Strings;
 //Qn. Print the first non repeating character in a string in lowercase
 
 import java.util.Scanner;
